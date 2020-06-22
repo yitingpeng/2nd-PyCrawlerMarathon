@@ -5,8 +5,8 @@
      - Data Source and Files Access
      - [Day001_HW](https://github.com/yitingpeng/2nd-PyCrawlerMarathon/blob/master/homework/Day001_HW.ipynb)
 2.   Day02 Python下載CSV檔案與解析：
-
-
+     - CSV Downloading and Parsing
+     - [Day002_HW](https://github.com/yitingpeng/2nd-PyCrawlerMarathon/blob/master/homework/Day002_HW.ipynb)
 3.   Day03 Python 下載XML檔案與解析：
 
 
